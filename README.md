@@ -9,7 +9,7 @@ __This README documents necessary steps to get the application up and running.__
 This project perform and explain clear and concise overview of the scikit-learn Python library and scipy.stats Python library. 
 
 # Particular project`s description
-In this project I performed and explained the scikit-learn Python library and scipy.stats Python library. The goal is to is to ensure that I have achieved the learning outcomesof the module while also providing you with sample work to show prospective
+In this project I performed and explained the scikit-learn Python library and scipy.stats Python library (including an example hypothesis test using ANOVA). The goal is to is to ensure that I have achieved the learning outcomesof the module while also providing you with sample work to show prospective
 employers. 
 
 
