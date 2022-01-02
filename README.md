@@ -5,16 +5,17 @@ __This README documents necessary steps to get the application up and running.__
 **Version 1.1.0**
 
 # Description
-*I have been coding since January 2020.  This is my 3rd and 4th project and efforts. The repository contains tasks and project for Fundamentals of Data Analysis module.*
-This project perform and explain simple linear regression using Pythonon the powerproduction dataset available on repository. 
+*I have been coding since January 2020.  This is my 5th and 6th project and efforts. The repository contains projects for Machine Learning and Statistics module.*
+This project perform and explain clear and concise overview of the scikit-learn Python library and scipy.stats Python library. 
 
 # Particular project`s description
-In this project I performed and explained simple linear regression using Python on the powerproduction dataset available on the repository. The goal is to accurately predict wind turbine power output from wind speed values using the data set as a basis. 
+In this project I performed and explained the scikit-learn Python library and scipy.stats Python library. The goal is to is to ensure that I have achieved the learning outcomesof the module while also providing you with sample work to show prospective
+employers. 
 
 
 
 # Python version
-Python 3.8.3 which can be downloaded from here: https://www.python.org/downloads/
+Python 3.9.7 which can be downloaded from here: https://www.python.org/downloads/
 Any code editor, but highly recommended are:  Visual Studio Code; PyCharm: the Python IDE for Professional Developers or Jupyter Notebook; 
 
 
