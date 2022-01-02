@@ -1,202 +1,31 @@
-city,age
-Toronto,31
-Montréal,31
-Vancouver,32
-Calgary,37
-Edmonton,21
-Ottawa,25
-Mississauga,29
-Winnipeg,29
-Quebec City,27
-Hamilton,28
-Brampton,31
-Surrey,31
-Kitchener,31
-Laval,31
-Halifax,31
-London,31
-Victoria,21
-Markham,22
-St. Catharines,23
-Niagara Falls,24
-Vaughan,25
-Gatineau,26
-Windsor,27
-Saskatoon,28
-Longueuil,29
-Burnaby,30
-Regina,31
-Richmond,32
-Richmond Hill,33
-Oakville,34
-Burlington,35
-Barrie,36
-Oshawa,37
-Sherbrooke,21
-Saguenay,22
-Lévis,23
-Kelowna,24
-Abbotsford,25
-Coquitlam,26
-Trois-Rivières,27
-Guelph,28
-Cambridge,29
-Whitby,30
-Ajax,31
-Langley,32
-Saanich,33
-Terrebonne,34
-Milton,35
-St. John's,36
-Moncton,37
-Thunder Bay,21
-Dieppe,22
-Waterloo,23
-Delta,24
-Chatham,25
-Red Deer,26
-Kamloops,27
-Brantford,28
-Cape Breton,29
-Lethbridge,30
-Saint-Jean-sur-Richelieu,31
-Clarington,32
-Pickering,33
-Nanaimo,34
-Sudbury,35
-North Vancouver,36
-Brossard,37
-Repentigny,21
-Newmarket,22
-Chilliwack,23
-White Rock,24
-Maple Ridge,25
-Peterborough,26
-Kawartha Lakes,27
-Prince George,28
-Sault Ste. Marie,29
-Sarnia,30
-Wood Buffalo,31
-New Westminster,32
-Châteauguay,33
-Saint-Jérôme,34
-Drummondville,35
-Saint John,36
-Caledon,37
-St. Albert,21
-Granby,22
-Medicine Hat,23
-Grande Prairie,24
-St. Thomas,25
-Airdrie,26
-Halton Hills,27
-Saint-Hyacinthe,28
-Lac-Brome,29
-Port Coquitlam,30
-Fredericton,31
-Blainville,32
-Aurora,33
-Welland,34
-North Bay,35
-Beloeil,36
-Belleville,37
-Mirabel,21
-Shawinigan,22
-Dollard-des-Ormeaux,23
-Brandon,24
-Rimouski,25
-Cornwall,26
-Stouffville,27
-Georgina,28
-Victoriaville,29
-Vernon,30
-Duncan,31
-Saint-Eustache,32
-Quinte West,33
-Charlottetown,34
-Mascouche,35
-West Vancouver,36
-Salaberry-de-Valleyfield,37
-Rouyn-Noranda,21
-Timmins,22
-Sorel-Tracy,23
-New Tecumseth,24
-Woodstock,25
-Boucherville,26
-Mission,27
-Vaudreuil-Dorion,28
-Brant,29
-Lakeshore,30
-Innisfil,31
-Prince Albert,32
-Langford Station,33
-Bradford West Gwillimbury,34
-Campbell River,35
-Spruce Grove,36
-Moose Jaw,37
-Penticton,21
-Port Moody,22
-Leamington,23
-East Kelowna,24
-Côte-Saint-Luc,25
-Val-d’Or,26
-Owen Sound,27
-Stratford,28
-Lloydminster,29
-Pointe-Claire,30
-Orillia,31
-Alma,32
-Orangeville,33
-Fort Erie,34
-LaSalle,32
-Sainte-Julie,29
-Leduc,28
-North Cowichan,31
-Chambly,28
-Okotoks,31
-Sept-Îles,32
-Centre Wellington,34
-Saint-Constant,35
-Grimsby,21
-Boisbriand,36
-Conception Bay South,34
-Saint-Bruno-de-Montarville,37
-Sainte-Thérèse,38
-Cochrane,26
-Thetford Mines,26
-Courtenay,38
-Magog,38
-Whitehorse,35
-Woolwich,22
-Clarence-Rockland,24
-Fort Saskatchewan,31
-East Gwillimbury,23
-Lincoln,27
-La Prairie,21
-Tecumseh,32
-Mount Pearl Park,32
-Amherstburg,36
-Saint-Lambert,37
-Brockville,22
-Collingwood,31
-Scugog,34
-Kingsville,24
-Baie-Comeau,33
-Paradise,34
-Uxbridge,27
-Essa,38
-Candiac,24
-Oro-Medonte,33
-Varennes,25
-Strathroy-Caradoc,21
-Wasaga Beach,37
-New Glasgow,34
-Wilmot,22
-Essex,22
-Fort St. John,28
-Kirkland,24
-L’Assomption,34
-Westmount,35
-Saint-Lazare,38
-Chestermere,44
-Huntsville,45
+,pollution inc.,city
+1,4.17,Toronto
+2,5.58,Toronto
+3,5.18,Toronto
+4,6.11,Toronto
+5,4.5,Toronto
+6,4.61,Toronto
+7,5.17,Toronto
+8,4.53,Toronto
+9,5.33,Toronto
+10,5.14,Toronto
+11,4.81,Hamilton
+12,4.17,Hamilton
+13,4.41,Hamilton
+14,3.59,Hamilton
+15,5.87,Hamilton
+16,3.83,Hamilton
+17,6.03,Hamilton
+18,4.89,Hamilton
+19,4.32,Hamilton
+20,4.69,Hamilton
+21,6.31,Niagara Falls
+22,5.12,Niagara Falls
+23,5.54,Niagara Falls
+24,5.5,Niagara Falls
+25,5.37,Niagara Falls
+26,5.29,Niagara Falls
+27,4.92,Niagara Falls
+28,6.15,Niagara Falls
+29,5.8,Niagara Falls
+30,5.26,Niagara Falls
