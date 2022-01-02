@@ -27,12 +27,13 @@ Requirements for Phyton do apply (.py).
 
 # Configuration – Installation 
 
-Install appropriate Python version and a code editor. For software library please use: https://matplotlib.org/; https://numpy.org/; https://seaborn.pydata.org/; https://pandas.pydata.org/; 
+Install appropriate Python version and a code editor. For software library please use: https://matplotlib.org/; https://numpy.org/; https://seaborn.pydata.org/; https://pandas.pydata.org/; https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.t.html; https://scikit-learn.org/stable/; 
 
 Required libraries:
 * matplotlib.pyplot;
 * numpy;
 * scikit-learn;
+* scipy.stats;
 * seaborn;
 * pandas.
 
